@@ -2,4 +2,4 @@
  
  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Utku-Mese&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
