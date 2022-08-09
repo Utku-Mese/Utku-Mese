@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31AC84&center=true&width=435&lines=Hi+!+I'm+Mehmet+Utku+ME%C5%9EE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?aligment=center?font=Fira+Code&pause=1000&color=31AC84&center=true&width=435&lines=Hi+!+I'm+Mehmet+Utku+ME%C5%9EE)](https://git.io/typing-svg)
 
 <h3 align="center">Software engineering student at Firat University</h3>
 
