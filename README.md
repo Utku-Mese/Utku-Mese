@@ -13,6 +13,8 @@
 <a href="https://instagram.com/utku_mese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utku_mese" height="40" width="50" /></a>
 </p>
 
+<br></br>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Utku-Mese&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
