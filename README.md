@@ -15,7 +15,7 @@
 
 <br></br>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Utku-Mese&center=true?show_icons=true&theme=dracula)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Utku-Mese&center=true&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
