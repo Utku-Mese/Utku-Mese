@@ -17,10 +17,10 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Utku-Mese&center=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-Mese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utku-Mese&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 
 <br></br>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimTalha0&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
+
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
