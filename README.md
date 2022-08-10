@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mehmet utku meşe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet utku meşe" height="40" width="50" /></a>
 <a href="https://instagram.com/utku_mese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utku_mese" height="40" width="50" /></a>
+   <a href="mutkumese@gmail.com" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2020/10/gmail-logo.png" alt="mehmet utku meşe" height="40" width="50" /></a>
 </p>
 
 <br></br>
