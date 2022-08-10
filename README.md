@@ -1,13 +1,9 @@
-   
- 
- 
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1FCED2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehmet+Utku+MESE" alt="Typing SVG" /></a></h1>
 
 
 <h2>- 📫 How to reach me: " mutkumese@gmail.com "</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utku-mese&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +26,4 @@
 <br></br>
 <br></br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utku-mese&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
