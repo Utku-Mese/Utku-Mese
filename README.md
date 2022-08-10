@@ -7,6 +7,8 @@
 
 <h2>- 📫 How to reach me: " mutkumese@gmail.com "</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utku-mese&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehmet-utku-meşe-07123a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet utku meşe" height="40" width="50" /></a>
@@ -28,4 +30,3 @@
 <br></br>
 <br></br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utku-mese&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
