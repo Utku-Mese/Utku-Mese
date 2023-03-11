@@ -9,6 +9,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mehmet-utku-meşe-07123a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet utku meşe" height="40" width="50" /></a>
 <a href="https://instagram.com/utku_mese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utku_mese" height="40" width="50" /></a>
+<a href="https://www.youtube.com/channel/UCy9yCicsZ7-0tvaqITqTtdw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mehmet Utku Meşe" height="40" width="50" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
