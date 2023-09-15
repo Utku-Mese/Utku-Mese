@@ -3,8 +3,7 @@
 
 
 
-<h3 align="center">Hello, I am a mobile app and Flutter developer who has gained knowledge in many fields with the mentality of learn something about everything and everything about something. and currently actively working in mobile application development.</h3>
-
+<h2 align="center">Hello, I am a mobile app and Flutter developer who has gained knowledge in many fields with the mentality of learn something about everything and everything about something. and currently actively working in mobile application development.<br></br></h2>
 
 <h2 align="center">- 📫 How to reach me: " mutkumese@gmail.com "</h2>
 
