@@ -1,5 +1,5 @@
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=11aa9e&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehmet+Utku+MESE" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1c78b2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mehmet+Utku+MESE" alt="Typing SVG" /></a></h1>
 
 
 <h3 align="center">Hello, I am a mobile app and Flutter developer who has gained knowledge in many fields with the mentality of learn something about everything and everything about something. and currently actively working in mobile application development.</h3>
