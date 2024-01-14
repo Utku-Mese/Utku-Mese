@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Flutter and node.js**
 
-- 📫 How to reach me - **mutkumese@gmail.com**
+- 📫 How to reach me - **utkumese.dev@gmail.com**
 
 - 📄 Know about my experiences - **[my personal site](https://utku-mese.github.io/)**
 </br>
