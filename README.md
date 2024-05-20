@@ -29,5 +29,5 @@
 </br>
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utku-mese&show_icons=true&locale=en" alt="Utku-Mese" /></p>
 <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utku-mese&show_icons=true&locale=en&layout=compact" alt="utku-mese"/></p>
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=utku-mese&date_format=M%20j%5B%2C%20Y%5D" alt="utku-mese: Profile Stats" /></p>
+<!-- <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=utku-mese&date_format=M%20j%5B%2C%20Y%5D" alt="utku-mese: Profile Stats" /></p>-->
 
