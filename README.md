@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utku-mese&label=Profile%20views&color=0e75b6&style=flat" alt="utku-mese" /> </p>
 
-- 🔭 I’m currently working on [Önersene](http://onersene.com/)
+- 🔭 I’m currently working on [Netaş](https://netas.com.tr/)
 
 - 🌱 I’m currently learning **Kotlin, Flutter and node.js**
 
